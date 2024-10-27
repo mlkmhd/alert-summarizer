@@ -1,0 +1,66 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('d54crcf2-d5b5-4763-b1a4-a9bfs4b0e6f5')/messages",
+    "value": [
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Server Status Report</h1><p>The server is running smoothly with no issues detected in the last 24 hours.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Database Backup Completed</h1><p>The scheduled database backup was completed successfully at 3:00 AM.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>High CPU Usage Alert</h1><p>Warning: The CPU usage has exceeded 90% for the past 10 minutes.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Disk Space Warning</h1><p>Alert: The disk space on server 'XYZ' is below 10%.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Network Latency Issue</h1><p>Notice: High network latency detected between 2:00 PM and 2:30 PM.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Memory Usage Alert</h1><p>Warning: Memory usage has exceeded 80% on server 'ABC'.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Service Downtime Notification</h1><p>Alert: The 'XYZ' service was down for 15 minutes starting at 1:00 AM.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Unauthorized Access Attempt</h1><p>Alert: An unauthorized access attempt was detected on server 'DEF'.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Patch Update Successful</h1><p>The latest security patch was successfully applied to all servers.</p></body></html>"
+        }
+      },
+      {
+        "body": {
+          "contentType": "html",
+          "content": "<html><body><h1>Service Performance Report</h1><p>The 'XYZ' service has been performing optimally with an average response time of 200ms.</p></body></html>"
+        }
+      }
+    ]
+  }
+  
