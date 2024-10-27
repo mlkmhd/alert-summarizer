@@ -11,3 +11,6 @@ Here are the different levels of summarization:
 Algorithm Description:
 
 In each level of summarization, the algorithm reduces the previous layer by half. For example, in the image above, at Level 1, there are 10 files, each containing an alert. The algorithm merges every two alerts into one summarized alert that encapsulates both. Therefore, after the first level of summarization, the algorithm converts 10 files into 5 files. This algorithm is recursive and continues until only one summarized file remains. I've utilized Ollama, a popular LLM tool, for summarizing email content.
+
+you can see the full article about this repository at the following medium post: 
+https://medium.com/itnext/summarizing-monitoring-alerts-using-llm-40692f55bd26
