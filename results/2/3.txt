@@ -1,0 +1,1 @@
+Disk space on server "XYZ" is critically low at 10% or lower. There were also network latency issues between 2:00 and 2:30 PM.

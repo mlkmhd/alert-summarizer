@@ -1,0 +1,1 @@
+A warning is triggered when the CPU usage exceeds 90% for 10 minutes, indicating high system utilization.

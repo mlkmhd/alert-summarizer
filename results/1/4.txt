@@ -1,0 +1,1 @@
+The disk space on server 'XYZ' has reached a critical level, falling below 10%.

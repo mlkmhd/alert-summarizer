@@ -1,0 +1,3 @@
+There are two alerts regarding a server and a service: 
+The server was functioning normally with no issues over the last day. 
+The "XYZ" service had a successful run, averaging a response time of 200 milliseconds.

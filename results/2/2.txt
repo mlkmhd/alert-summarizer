@@ -1,0 +1,3 @@
+Here is a summary of the text in 150 words:
+
+Two alerts were issued by the system. The first alert indicated that a scheduled database backup was completed successfully at 3:00 AM. This suggests that the system is running automated maintenance tasks on a regular basis to ensure data integrity and availability. In contrast, the second alert signalled a potential issue with system performance. It warned of high CPU usage exceeding 90% for a period of 10 minutes, indicating heavy utilization. This could be due to various factors such as software bugs, hardware limitations or resource-intensive processes running in the background. The system's ability to detect and report these issues is crucial for preventing downtime and ensuring overall system reliability.

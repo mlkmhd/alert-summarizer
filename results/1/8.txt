@@ -1,0 +1,1 @@
+An alert has been triggered due to an unauthorized access attempt on a server named "DEF". The nature and details of this attempt are not specified.
